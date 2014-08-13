@@ -1,0 +1,23 @@
+{
+  "name": "trycelery",
+  "version": "0.0.0",
+  "description": "Node wrapper for the Celery (store) API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/trycelery.git"
+  },
+  "keywords": [
+    "celery",
+    "trycelery"
+  ],
+  "author": "Kelsey Breseman <ifoundthemeaningoflife@gmail.com> (http://ifoundthemeaningoflife.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frijol/trycelery/issues"
+  },
+  "homepage": "https://github.com/Frijol/trycelery"
+}
